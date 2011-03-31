@@ -1,0 +1,5 @@
+Type Follow Commands:
+
+$ cd /path/to/cake/console/
+$ patch < cake.patch
+
